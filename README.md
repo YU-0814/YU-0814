@@ -1,4 +1,4 @@
-# Jinyoung Yu
+# Jin Yeong Yoo
 
 Senior in Data Science, Pusan National University.
 Undergraduate researcher at K-MedAI Lab (Prof. Sunyoung Kwon).
