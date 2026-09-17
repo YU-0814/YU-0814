@@ -1,4 +1,4 @@
-# Jin Yeong Yoo
+# Jinyeong Yoo
 
 Senior in Data Science, Pusan National University.
 Undergraduate researcher at MAIL Lab (Prof. Sunyoung Kwon).
