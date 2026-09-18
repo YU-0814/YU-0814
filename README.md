@@ -3,7 +3,7 @@
 Senior in Data Science, Pusan National University.
 Undergraduate researcher at MAIL Lab (Prof. Sunyoung Kwon).
 
-Interested in world models, reinforcement learning, multimodal representation learning, and mechanistic interpretability.
+Interested in reinforcement learning, world models, multimodal representation learning, and mechanistic interpretability.
 
 ## Work
 
